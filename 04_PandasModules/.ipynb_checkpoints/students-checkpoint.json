@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "age": 21,
+    "course": "Data Science"
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "age": 22,
+    "course": "Machine Learning"
+  },
+  {
+    "id": 3,
+    "name": "Amit",
+    "age": 20,
+    "course": "Web Development"
+  }
+]
